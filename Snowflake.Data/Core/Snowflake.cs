@@ -4,3 +4,4 @@
 
 using System.Runtime.CompilerServices;
 [assembly: InternalsVisibleTo("Snowflake.Data.Tests")]
+[assembly: InternalsVisibleTo("Snowflake.Data.Benchmarks")]
